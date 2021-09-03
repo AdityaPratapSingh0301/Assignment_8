@@ -1,0 +1,381 @@
+*
+{
+    padding: 0;
+    margin: 0;box-sizing:
+    border-box;
+}
+
+
+.container
+{
+    width: 1200px;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #F6F6F6;
+}
+
+.header
+{
+    background-color: grey;
+    height: 70px;
+    width: 98%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: white;
+    line-height: 60px;
+}
+
+.header a
+{
+text-decoration: none;
+font-size: 30px;
+font-family: arial;
+color: white;
+}
+
+nav
+{
+    line-height: 70px;
+}
+
+nav a
+{
+    text-decoration: none;
+    font-family: arial;
+    letter-spacing: 4px;
+    margin: 0 40px;
+}
+
+.banner
+{
+    background-color: skyblue;
+    height: 550px;
+    width: 98%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    line-height: 520px;   
+    margin-bottom: 100px;         
+}
+
+.banner img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.section1
+{
+    height: 300px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+.section1 img
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.teamtext
+{
+    text-align: center;
+    font-family: arial;
+    height: 80px;
+    font-size: 20px;
+    
+}
+
+.team1
+{
+    width: 20%;
+    background-color: goldenrod;
+    height: 80%;
+    border-radius: 50%;
+    float: left;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.team2
+{
+    width: 20%;
+    background-color: goldenrod;
+    height: 80%;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.team3
+{
+    width: 20%;
+    background-color: goldenrod;
+    height: 80%;
+    border-radius: 50%;
+    float: right;
+    margin-right: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.team4
+{
+    width: 20%;
+    background-color: goldenrod;
+    height: 80%;
+    border-radius: 50%;
+    float: right;
+    margin-right: 65px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.section2
+{
+    width: 100%;
+    height: 430px;
+    margin-bottom: 200px;
+}
+
+.aboutus
+{
+    text-align: center;
+    font-family: arial;
+    height: 80px;  
+    font-size: 20px;
+}
+
+.content
+{
+    height: 100%;
+    width: 48%;
+    background-color: #2F5D62;
+    float: left;
+    margin-left: 10px;
+    color: white;      
+    padding: 10px;     
+    font-family: arial;
+}
+
+.article
+{
+    height: 100%;
+    width: 49%;
+    float: right;
+    margin-right: 10px;
+}
+
+.article1
+{
+    width: 100%;
+    height: 32%;
+    background-color: #345B63;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    line-height: 150px ;            
+}
+
+.article1 img
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.t1
+{
+    position: absolute;
+  bottom: -615px;
+  right: 625px;
+  color: white;
+}
+
+.article2
+{
+    width: 100%;
+    height: 32%;
+    background-color: #345B63;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    line-height: 130px ;            
+}
+
+.article2 img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.t2
+{
+    position: absolute;
+  bottom: -750px;
+  right: 625px;
+  color: white;
+}
+
+.article3
+{
+    width: 100%;
+    height: 32%;
+    background-color: #345B63 ;
+    text-align: center;
+    color: white;
+    line-height: 130px ;            
+}
+
+.article3 img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.t3
+{
+    position: absolute;
+  bottom: -900px;
+  right: 625px;
+  color: white;
+}
+
+
+.section3
+{
+    height: 300px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 300px;            
+}
+
+.technologies
+{
+    text-align: center;
+    font-family: arial;
+    height: 80px;
+    font-size: 20px;
+}
+
+.box1
+{
+    width: 20%;
+    background-color: red;
+    height: 90%;
+    float: left;
+    margin-left: 30px; 
+}
+
+.box2
+{
+    width: 20%;
+    background-color: red;
+    height: 90%;
+    float: left;
+    margin-left: 65px;
+}
+
+.box3
+{
+    width: 20%;
+    background-color: red;
+    height: 90%;
+    float: right;
+    margin-right: 30px;
+}
+
+.box4
+{
+    width: 20%;
+    background-color: red;
+    height: 90%;
+    float: right;
+    margin-right: 65px;
+}
+
+.box
+{
+    width: 100%;
+    height: 430px;
+    border: 1px solid white;
+    margin-bottom: 10px;
+    overflow: hidden;
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#container
+{
+    display: inline-flex;
+}
+
+.box h3{
+    text-align: center;
+}
+
+.box img 
+{
+    width: 100%;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.button
+{
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.button:hover
+{
+    background-color:midnightblue;
+}
+
+.header a:hover
+{
+background-color: white;
+padding: 10px;
+color: black;
+border-radius: 5px;
+}
+
+.but
+{
+    text-align: center;
+}
+
+.section4
+{
+    height: 110px;
+    width: 98%;
+    background-color: #77ACF1;
+    margin-bottom: 20px;
+    margin: auto;
+    margin-bottom: 40px;
+    text-align: center;
+    line-height: 60px;  
+    margin-top: 30px;             
+}
+
+.contact
+{
+    text-align: center;
+    font-family: arial;
+    height: 30px;
+    font-size: 20px;
+}
